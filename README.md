@@ -83,7 +83,7 @@ Project Highlights :-
 
 
 ## Let's Connect:
-- [LinkedIn]([https://www.linkedin.com/in/anshul-sharma/](https://www.linkedin.com/in/anshul-sharma-917141253))
+- [LinkedIn]([(https://www.linkedin.com/in/anshul-sharma-917141253)])
 - Email: sasansanshul123@gmail.com
 
 ---
