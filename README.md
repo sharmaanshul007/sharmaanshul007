@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer and student currently p
 - **Education:** Final Year, B.Tech in CSE at MANIT Bhopal.
 - **Skills:** MERN Stack (MongoDB, Express.js, React, Node.js), Spring Boot, Spring-Security, HTML, CSS, JavaScript, C, C++, DSA, Java
 - **Currently Learning:** Advanced Java and exploring system design principles.
-- **Coding Enthusiast:** Solved 850+ problems on LeetCode.
+- **Coding Enthusiast:** Solved 850+ DSA problems on LeetCode etc.
 - **Achievements:** Top 10 teams in HackByte 3.0 hackathon(Amongst 120+ teams), Innovate Award in MANITXThapar hackathon, Special Mention in ISTE Version-Beta hackathon.
 - **Projects:** Smart Contact Management Platform, Chat Application, Gamified Mental Wellness Platform, Blogs App, E-commerce Website (Ecomzy), Wordle Game.
 - **Frontend Tech:** HTML, CSS, JavaScript, React, Thymeleaf, Zustand, Context-API Redux, Tailwind CSS.
