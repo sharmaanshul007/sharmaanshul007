@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer and student currently p
 
 ---
 
-## 👨‍🎓 About Me
+## About Me
 
 -  **Education:** Final Year, B.Tech in CSE at MANIT Bhopal.
 -  **Skills:** MERN Stack (MongoDB, Express.js, React, Node.js), Spring Boot, Spring Security, HTML, CSS, JavaScript, C, C++, DSA, Java.
@@ -71,10 +71,10 @@ Welcome to my GitHub profile! I'm a passionate developer and student currently p
 ### 3.  Gamified Mental Wellness Platform
 
 - MERN-stack platform to improve mental well-being through interactivity.
-- 🎯 Includes two games: **Wordle** & **Memory Leak**.
-- 🗨️ Anonymous chat powered by Socket.IO.
-- 📓 Journal writing feature for self-reflection.
-- 🧘‍♂️ Exercise section with tips and guided routines.
+- Includes two games: **Wordle** & **Memory Leak**.
+- Anonymous chat powered by Socket.IO.
+- Journal writing feature for self-reflection.
+- Exercise section with tips and guided routines.
 - Secure routing and user sessions.
 - Global state handled via Redux.
 - Calm, responsive UI for a positive user experience.
@@ -85,9 +85,9 @@ Welcome to my GitHub profile! I'm a passionate developer and student currently p
 
 - MERN stack-based blog site for reading and publishing tech articles.
 - Authentication & role-based access (User/Admin).
-- 🔍 Search posts by keywords or tags.
-- 💬 Commenting system for discussions.
-- 🛠️ Admin panel to view metrics and moderate content.
+- Search posts by keywords or tags.
+- Commenting system for discussions.
+- Admin panel to view metrics and moderate content.
 - UI built using **Flowbite React** components.
 - Scalable architecture with reusable components and protected routes.
 
@@ -95,8 +95,8 @@ Welcome to my GitHub profile! I'm a passionate developer and student currently p
 
 ## Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/anshul-sharma-917141253)
-- 📧 Email: sasansanshul123@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/anshul-sharma-917141253)
+- Email: sasansanshul123@gmail.com
 
 ---
 
